@@ -1,1 +1,0 @@
-# minchan-cmd2.github.io
